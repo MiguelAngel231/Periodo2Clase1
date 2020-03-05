@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+h1 {
+	color: maroon;
+	font-size: 6em;
+	font-family: 'Raleway', sans-serif;
+}
+body {
+	background-color: black;
+}
+p {
+	color: chocolate;
+	font-size: 2em;
+	font-family: 'Raleway', sans-serif;
+}
+p.alternativo {
+	color: forestgreen;
+}
+a:link {
+	color: aqua;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+a:visited {
+	color: darkred;
+}
+a:hover {
+	text-decoration: none;
+}
